@@ -1,6 +1,11 @@
 <h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="./MrXiao7/master/gif3.gif" width="500"/>
-
+#  🙋 Hello
+<!-- dynamic typing effect 动态打字效果 -->
+  <div align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=cout<<%22Hello%2C%20World%22<<endl;hello world!&center=true&size=27" alt="Typing SVG" />
+    
+  </div>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
