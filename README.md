@@ -1,5 +1,5 @@
 <h2> Hey there! I'm JackLove. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="./MrXiao7/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="[./MrXiao7/master/gif3.gif](https://github.com/MrXiao7/MrXiao7/blob/main/gif3.gif)" width="500"/>
 #  🙋 Hello
 
   <div align="center">
