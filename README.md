@@ -1,9 +1,8 @@
 <h2> 🙋Hey there! I'm JackLove. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <div align="center">
-<img align="center" alt="GIF" src="https://github.com/MrXiao7/MrXiao7/blob/main/gif3.gif" width="500"/>
-  </div>
-
-
+<!-- knock code pictures 敲代码的图片 -->
+  <img align="center" src="https://github.com/MrXiao7/MrXiao7/blob/main/coding.gif" /><br>
+</div>
   <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
@@ -60,5 +59,7 @@
 
 .......
 ⭐️ 
-<!-- knock code pictures 敲代码的图片 -->
-  <img align="center" src="https://github.com/MrXiao7/MrXiao7/blob/main/coding.gif" /><br>
+<div align="center">
+<img align="center" alt="GIF" src="https://github.com/MrXiao7/MrXiao7/blob/main/gif3.gif" width="500"/>
+  </div>
+
