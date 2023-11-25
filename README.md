@@ -1,6 +1,8 @@
-<h2> Hey there! I'm JackLove. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="center" style="vertical-align:top" alt="GIF" src="https://github.com/MrXiao7/MrXiao7/blob/main/gif3.gif" width="500"/>
-#  🙋 Hello
+<h2> 🙋Hey there! I'm JackLove. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<div align="center">
+<img align="center" alt="GIF" src="https://github.com/MrXiao7/MrXiao7/blob/main/gif3.gif" width="500"/>
+  </div>
+
 
   <div align="center">
 
