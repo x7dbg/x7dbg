@@ -3,6 +3,7 @@
 <!-- knock code pictures 敲代码的图片 -->
   <img align="center" src="https://github.com/MrXiao7/MrXiao7/blob/main/coding.gif" /><br>
 </div>
+</br>
   <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
