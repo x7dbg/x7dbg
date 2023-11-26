@@ -1,4 +1,4 @@
-<h2> 🙋Hey there! I'm JackLove. </h2>
+  <h2> 🙋Hey there! I'm JackLove. </h2>
 <div align="center">
 <!-- knock code pictures 敲代码的图片 -->
   <img align="center" src="https://github.com/MrXiao7/MrXiao7/blob/main/coding.gif" /><br>
@@ -45,9 +45,9 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 技术栈</h3>
 
-- 💻 &nbsp; Python |ASM| C++  
+- 💻 &nbsp; C/C++ |ASM| Python  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
