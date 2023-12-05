@@ -37,21 +37,17 @@
 
 </div>
 
-- 🔭 &nbsp; 曾经的科锐学院，前驱动人生高级C/C++工程师，现在是无业游民
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; 曾经的科锐学员，前驱动人生高级C/C++工程师，现在是无业游民
+- 🤔 &nbsp; 目前主要是做一些游戏外挂相关的开发.
+- 🎓 &nbsp; 正在学习安卓逆向
+
 
 <h3>🛠 技术栈</h3>
 
 - 💻 &nbsp; C/C++ |ASM| Python  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 🌐 &nbsp; 逆向工程 | 爬虫 | Windows驱动 | 游戏外挂  
+- 🔧 &nbsp; x64dbg | idapro | CE | Visual Studio 2013-2019 | Git
+
 
 
 
