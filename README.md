@@ -37,7 +37,7 @@
 
 </div>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; 曾经的科锐学院，前驱动人生高级C/C++工程师，现在是无业游民
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
