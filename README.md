@@ -38,13 +38,13 @@
 </div>
 
 - 🔭 &nbsp; 曾经的科锐学员，前驱动人生高级C/C++工程师，现在是无业游民
-- 🤔 &nbsp; 目前主要是做一些游戏外挂相关的开发.
+- 🤔 &nbsp; 目前主要是做一些游戏外挂相关的开发 包括游戏逆向(找数据)、过保护、外挂框架编写
 - 🎓 &nbsp; 正在学习安卓逆向
 
 
 <h3>🛠 技术栈</h3>
 
-- 💻 &nbsp; C/C++ |ASM| Python  
+- 💻 &nbsp; C/C++ | 汇编 | Python | Lua
 - 🌐 &nbsp; 逆向工程 | 爬虫 | Windows驱动 | 游戏外挂  
 - 🔧 &nbsp; x64dbg | idapro | CE | Visual Studio 2013-2019 | Git
 
@@ -55,6 +55,9 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 .......
+.......
+404
+
 ⭐️ 
 <div align="center">
 <img align="center" alt="GIF" src="https://github.com/MrXiao7/MrXiao7/blob/main/gif3.gif" width="500"/>
