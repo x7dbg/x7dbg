@@ -1,4 +1,10 @@
-  <h2> 🙋Hey there! I'm JackLove. </h2>
+  
+           ╱|、
+          (˚ˎ 。7  
+           |、˜〵          
+           じしˍ,)ノ 
+
+   <h2> 🙋Hey there! I'm JackLove. </h2>
 <div align="center">
 <!-- knock code pictures 敲代码的图片 -->
   <img align="center" src="https://github.com/MrXiao7/MrXiao7/blob/main/coding.gif" /><br>
